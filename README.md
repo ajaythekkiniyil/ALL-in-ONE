@@ -1,3 +1,3 @@
 # ALL-in-ONE
 
-IS a simple front end for cafe website
+Is a simple front end for cafe website
